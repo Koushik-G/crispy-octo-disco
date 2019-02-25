@@ -1,6 +1,6 @@
 {
   "name": "dietplanner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An app that tracks your health and accordingly suggest your diet",
   "main": "index.js",
   "scripts": {
